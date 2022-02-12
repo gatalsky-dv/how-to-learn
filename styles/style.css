@@ -15,7 +15,9 @@
   max-height: 756px;  /* выше установили ограничения для секции */
   width: 100%;
   display: flex;
+  position: relative;
   align-items: center;
+  justify-content: flex-start;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
