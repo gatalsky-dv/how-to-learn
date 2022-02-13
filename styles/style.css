@@ -18,6 +18,7 @@
   position: relative;
   align-items: center;
   justify-content: flex-start;
+  background-color: #f2f2f2;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
@@ -39,12 +40,8 @@
   margin-top: 80px;
 }
 
-/* .logo {
-  
-} */
-
 .logo_place_header {
-  background-image: url(/images/logo_place_header.svg);
+  background-image: url(../images/logo_place_header.svg);
   position: absolute;
   display: flex;
   width: 183px;
@@ -208,3 +205,45 @@
   display: flex;
   margin: 0;
 }
+
+.feynman {
+  background-color: #f2f2f2;
+  min-height: 890px;
+  background-image: url(../images/feynman.png);
+  background-repeat: no-repeat;
+  background-position: 0% 100%;
+  position: relative;
+}
+
+.feynman__title {
+  line-height: 1.15;
+  font-size: 120px;
+  font-weight: bold;
+  width: 648px;
+  margin: auto;
+  text-align: center;
+  padding-top: 100px;
+}
+
+.feynman__subtitle {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  text-align: center;
+  margin: auto;
+  padding-top: 70px;
+}
+
+.feynman__link {
+  line-height: 51px;
+  font-size: 36px;
+  font-weight: normal;
+  color:#2f80ed;
+  text-align: center;
+  position: absolute;
+  padding-right: 48px;
+  margin: 0;
+  top: 50%;
+  right: 0;
+}
+
