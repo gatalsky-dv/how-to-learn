@@ -97,7 +97,6 @@
 .two-columns {
   width: 80%;
   display: flex;
-  align-items: center;
   justify-content: space-between;
   align-items: baseline;
   min-height: auto;
@@ -306,8 +305,7 @@
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  
-  flex-basis: 711px
+  flex-basis: 711px;
 }
 
 .footer__autor {
@@ -335,6 +333,7 @@
   justify-content: flex-start;
   margin: 0;
 }
+
 .footer__column-heading {
   line-height: 30px;
   font-size: 18px;
@@ -361,11 +360,6 @@
   flex-direction: column;
   justify-content: flex-start;
   text-decoration: none;
-}
-
-.footer__column_content_social {
-  display: flex;
-  margin: 0;
 }
 
 .footer__social-icon {
