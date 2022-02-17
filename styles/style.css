@@ -32,11 +32,15 @@
   right: 0;
 }
 
-.logo__place_header {
+.logo {
+  width:  183px;
+  display: flex;
+  margin: 0;
+}
+
+.logo_place_header {
   background-image: url(../images/logo_place_header.svg);
   position: absolute;
-  display: flex;
-  width: 183px;
   height: 32px;
   top: 30px;
   left: 64px;
@@ -336,13 +340,10 @@
   display: flex;
 }
 
-.logo__place_footer {
+.logo_place_footer {
   background-image: url(../images/logo_place_footer.svg);
   height: 35px;
-  width:  183px;
-  display: flex;
   align-self: flex-start;
-  margin: 0;
 }
 
 .footer__column_content_social {
