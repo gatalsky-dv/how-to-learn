@@ -1,0 +1,11 @@
+
+
+.table__cell {
+    display: flex;
+    width: 250px;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-self: flex-start;
+    align-items: flex-start;
+    margin-top: 60px;
+  }
