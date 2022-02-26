@@ -1,3 +1,5 @@
+@import url(/styles/header/__square-pic/header__square-pic.css);
+
 .page {
   min-width: 1100px;
   /* мы ещё не умеем делать мобильную версию сайта, */
@@ -19,10 +21,11 @@
   align-items: center;
   justify-content: flex-start;
   background-color: #f2f2f2;
+  overflow: hidden;
 }
 
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
-.header__square-pic {
+/* .header__square-pic {
   height: 568px;
   width: 568px;
   background-color:  #2f80ed;
@@ -30,7 +33,8 @@
   display: flex;
   top: 64px;
   right: 0;
-}
+    
+} */
 
 .logo {
   width:  183px;
