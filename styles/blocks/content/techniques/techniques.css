@@ -1,0 +1,11 @@
+@import url(/styles/blocks/caption/section-title.css);
+@import url(/styles/blocks/caption/section-subtitle.css);
+
+.techniques {
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    align-items: center;
+    width: 80%;
+    margin: 0 auto 0 auto;
+}

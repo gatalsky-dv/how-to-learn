@@ -3,8 +3,9 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles/normalize.css">
+  <link rel="stylesheet" href="styles/vendor/normalize.css">
   <link rel="stylesheet" href="styles/style.css">
+  <link rel="stylesheet" href="styles/page/index.css">
   <title>Научиться учиться</title>
 </head>
 <body>
@@ -16,7 +17,7 @@
       <a href="#" class="header__link">Узнать &rarr;</a>
       </p>
       <img src="images/header-image.png" alt="Опять двойка" class="header__main-illustration">
-      <div class="header__square-pic"></div>
+      <div class="header__square-pic header__square-pic_rotation"></div>
     </header>
 
     <main class="content">
@@ -42,6 +43,57 @@
         </article>
       </section>
 
+      <section class="techniques">
+        <h2 class="section-title">Техники обучения</h2>
+        <p class="section-subtitle">Пять практик от Барбары Оакли</p>
+        <ul class="cards">
+          <li class="cards__item">
+            <img src="/images/images_sprint-2/cards-attention.png" alt="Внимание" class="cards__image">
+            <h4 class="cards__title">Два вида внимания</h4>
+            <p class="cards__description">Глубокие знания возникают, если чередовать сфокусированное и рассеянное мышление.</p>
+          </li>
+
+          <li class="cards__item">
+            <img src="/images/images_sprint-2/cards-recall.png" alt="Отзыв" class="cards__image">
+            <h4 class="cards__title">Recall</h4>
+            <p class="table__text">Вспоминайте изученное — это позволит соединить разрозненные порции памяти.</p>
+          </li>
+
+          <li class="cards__item">
+            <img src="/images/images_sprint-2/cards-interliving.png" alt="Интерливинг" class="cards__image">
+            <h4 class="cards__title">Интерливинг</h4>
+            <p class="cards__description">Изучайте несколько навыков одновременно, они обогащают друг друга.</p>
+          </li>
+
+          <li class="cards__item">
+            <img src="/images/images_sprint-2/cards-question.png" alt="Вопросы" class="cards__image">
+            <h4 class="cards__title">Вопросы</h4>
+            <p class="cards__description">Слушая преподавателя, придумывайте хороший вопрос, который вас действительно волнует.</p>
+          </li>
+
+          <li class="cards__item">
+            <img src="/images/images_sprint-2/cards-competence.png" alt="Иллюзия" class="cards__image">
+            <h4 class="cards__title">Иллюзия компетентности</h4>
+            <p class="cards__description">Повторите про себя, запишите, расскажите другу: вам только кажется, что вы владеете новой темой.</p>
+          </li>
+
+        </ul>
+      </section>
+
+      <section class="video">
+        <!-- видео на TED -->
+      </section>
+
+      <section class="oakley">
+        <!-- история Барбары  -->
+      </section>
+      <!-- не трогать -->
+      <section class="feynman">
+        <h2 class="feynman__title">Метод Фейнмана</h2>
+        <p class="feynman__subtitle">Выучить и не забыть.</p>
+        <a href="#" class="feynman__link">Подробнее &rarr;</a>
+      </section>
+      <!-- не трогать -->
       <section class="digits">
         <h2 class="section-title">Цифры и факты</h2>
         <p class="section-subtitle">Про учёбу и мозг</p>
@@ -90,12 +142,10 @@
         </ul>
       </section>
 
-      <section class="feynman">
-        <h2 class="feynman__title">Метод Фейнмана</h2>
-        <p class="feynman__subtitle">Выучить и не забыть.</p>
-        <a href="#" class="feynman__link">Подробнее &rarr;</a>
+      <section class="khan">
+        <!-- весь мир - школа -->
       </section>
-
+      <!-- не трогать -->
       <section class="kaufman">
         <h2 class="section-title section-title_theme_dark">Принципы обучения</h2>
         <h3 class="section-subtitle section-subtitle_theme_dark">от Джоша Кауфмана</h3>
@@ -152,8 +202,13 @@
         </ul>
         <div class="kaufman__triangle"></div>
       </section>
-    </main>
 
+      <section class="resources">
+        <!-- полезные ресурсы -->
+      </section>
+
+    </main>
+    <!-- не трогать -->
     <footer class="footer">
       <div class="footer__columns">
         <!-- 2 блок -->

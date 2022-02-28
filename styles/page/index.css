@@ -1,0 +1,14 @@
+@import url(/styles/blocks/header/header.css);
+@import url(/styles/blocks/logo/logo.css);
+/* ------header--------- */
+@import url(/styles/blocks/content/content.css);
+/* ------content-------- */
+@import url(/styles/blocks/footer/footer.css);
+
+
+.page {
+    min-width: 1100px;
+    max-width: 1600px;
+    margin: 0 auto;
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+  }
