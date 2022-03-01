@@ -2,7 +2,7 @@
 
 .cards__item {
   display: flex;
-  width: 920px;
+  width: 240px;
   flex-direction: column;
   justify-content: flex-start;
   align-self: flex-start;
