@@ -3,7 +3,11 @@
 .cards__item {
   display: flex;
   width: 240px;
-  display: flex;
   flex-direction: column;
   margin-top: 0;
+  margin-left: 100px;
+}
+
+.cards__item:nth-of-type(3n + 1) {
+  margin-left: 0;
 }
