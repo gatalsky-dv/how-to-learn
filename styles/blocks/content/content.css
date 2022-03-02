@@ -4,6 +4,7 @@
 @import url(/styles/blocks/content/digits/digits.css);
 @import url(/styles/blocks/content/table/table.css);
 @import url(/styles/blocks/content/techniques/techniques.css);
+@import url(//styles/blocks/content/video/video.css);
 
 .content {
     margin: 0;
