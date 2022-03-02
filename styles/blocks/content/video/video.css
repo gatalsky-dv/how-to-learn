@@ -1,10 +1,10 @@
-
+@import url(/styles/blocks/caption/section-title.css);
+@import url(/styles/blocks/caption/section-subtitle.css);
+@import url(/styles/blocks/content/video/__iframes/video__iframes.css);
 
 .video {
   display: flex;
   flex-direction: column;
   align-self: center;
   align-items: center;
-  width: 80%;
-  margin: 0 auto 0 auto;
 }
