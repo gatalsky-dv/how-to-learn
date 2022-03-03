@@ -6,6 +6,7 @@
 @import url(/styles/blocks/content/techniques/techniques.css);
 @import url(/styles/blocks/content/video/video.css);
 @import url(/styles/blocks/content/oakley/oakley.css);
+@import url(/styles/blocks/content/khan/khan.css);
 
 .content {
     margin: 0;
