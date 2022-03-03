@@ -1,7 +1,5 @@
-@import url(/styles/blocks/content/description/two-colums/two-columns.css);
-@import url(/styles/blocks/content/description/two-colums/__brief/two-columns__brief.css);
-@import url(/styles/blocks/content/description/two-colums/__main-text/two-columns__main-text.css);
-@import url(/styles/blocks/content/description/two-colums/__paragraph/two-columns__paragraph.css);
+@import url(/styles/blocks/content/description/two-columns/two-columns.css);
+
 
 .oakley {
   background-color: #f2f2f2;
