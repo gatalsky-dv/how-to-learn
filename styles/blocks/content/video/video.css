@@ -1,6 +1,7 @@
 @import url(/styles/blocks/caption/section-title.css);
 @import url(/styles/blocks/caption/section-subtitle.css);
 @import url(/styles/blocks/content/video/__iframes/video__iframes.css);
+@import url(/styles/blocks/content/video/__iframe/video__iframe.css);
 
 .video {
   display: flex;
