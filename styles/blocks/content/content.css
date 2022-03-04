@@ -1,23 +1,13 @@
 @import url(./description/description.css); 
-/* done */
 @import url(./feynman/feynman.css);
-/* done */
 @import url(./digits/digits.css);
-/* done */
 @import url(./table/table.css);
-/* done */
 @import url(./techniques/techniques.css);
-
 @import url(./video/video.css);
-/* done */
 @import url(./oakley/oakley.css);
-/* done */
 @import url(./khan/khan.css);
-/* done */
 @import url(./kaufman/kaufman.css);
-/* done */
 @import url(./resources/resources.css);
-/* done */
 
 .content {
   margin: 0;
