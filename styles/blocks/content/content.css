@@ -1,12 +1,12 @@
 @import url(/styles/blocks/content/description/description.css);
 @import url(/styles/blocks/content/feynman/feynman.css);
-@import url(/styles/blocks/content/kaufman/kaufman.css);
 @import url(/styles/blocks/content/digits/digits.css);
 @import url(/styles/blocks/content/table/table.css);
 @import url(/styles/blocks/content/techniques/techniques.css);
 @import url(/styles/blocks/content/video/video.css);
 @import url(/styles/blocks/content/oakley/oakley.css);
 @import url(/styles/blocks/content/khan/khan.css);
+@import url(/styles/blocks/content/kaufman/kaufman.css);
 
 .content {
     margin: 0;
