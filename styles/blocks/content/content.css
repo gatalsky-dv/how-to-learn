@@ -7,6 +7,7 @@
 @import url(/styles/blocks/content/oakley/oakley.css);
 @import url(/styles/blocks/content/khan/khan.css);
 @import url(/styles/blocks/content/kaufman/kaufman.css);
+@import url(/styles/blocks/content/resources/resources.css);
 
 .content {
     margin: 0;

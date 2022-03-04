@@ -6,4 +6,9 @@
     flex-direction: column;
     justify-content: flex-start;
     text-decoration: none;
+    transition: opacity 0.5s ease 0.2s;
+  }
+
+  .footer__column-link:hover {
+    opacity: 0.5;
   }
