@@ -1,4 +1,4 @@
-@import url(./description/description.css); 
+@import url(./description/description.css);
 @import url(./feynman/feynman.css);
 @import url(./digits/digits.css);
 @import url(./table/table.css);
@@ -7,7 +7,6 @@
 @import url(./oakley/oakley.css);
 @import url(./khan/khan.css);
 @import url(./kaufman/kaufman.css);
-@import url(./resources/resources.css);
 
 .content {
   margin: 0;

@@ -3,8 +3,15 @@
 @import url(../../styles/blocks/logo/logo.css);
 @import url(../../styles/blocks/content/content.css);
 @import url(../../styles/blocks/footer/footer.css);
-/* готово */
-
+@import url(../blocks/content/resources/resources.css);
+@import url(../blocks/content/description/two-columns/two-columns.css);
+@import url(../blocks/content/description/two-columns/__span-accent/two-columns__span-accent.css);
+@import url(../blocks/caption/section-subtitle.css);
+@import url(../blocks/content/feynman/__title/feynman__title.css);
+@import url(../blocks/content/table/_theme_dark/table_theme_dark.css);
+@import url(../blocks/content/khan/__title/khan__title.css);
+@import url(../blocks/content/description/two-columns/two-columns.css);
+@import url(../blocks/content/resources/__logo/resources__logo.css);
 
 .page {
   min-width: 1100px;
