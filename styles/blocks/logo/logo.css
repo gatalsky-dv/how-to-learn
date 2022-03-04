@@ -1,8 +1,8 @@
-@import url(/styles/blocks/logo/logo_place_header/logo_place_header.css);
-@import url(/styles/blocks/logo/logo_place_footer/logo_place_footer.css);
+@import url(./logo_place_header/logo_place_header.css);
+@import url(./logo_place_footer/logo_place_footer.css);
 
 .logo {
-    width:  183px;
-    display: flex;
-    margin: 0;
-  }
+  width:  183px;
+  display: flex;
+  margin: 0;
+}

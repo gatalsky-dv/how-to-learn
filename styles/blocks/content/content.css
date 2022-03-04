@@ -1,14 +1,24 @@
-@import url(/styles/blocks/content/description/description.css);
-@import url(/styles/blocks/content/feynman/feynman.css);
-@import url(/styles/blocks/content/digits/digits.css);
-@import url(/styles/blocks/content/table/table.css);
-@import url(/styles/blocks/content/techniques/techniques.css);
-@import url(/styles/blocks/content/video/video.css);
-@import url(/styles/blocks/content/oakley/oakley.css);
-@import url(/styles/blocks/content/khan/khan.css);
-@import url(/styles/blocks/content/kaufman/kaufman.css);
-@import url(/styles/blocks/content/resources/resources.css);
+@import url(./description/description.css); 
+/* done */
+@import url(./feynman/feynman.css);
+/* done */
+@import url(./digits/digits.css);
+/* done */
+@import url(./table/table.css);
+/* done */
+@import url(./techniques/techniques.css);
+
+@import url(./video/video.css);
+/* done */
+@import url(./oakley/oakley.css);
+/* done */
+@import url(./khan/khan.css);
+/* done */
+@import url(./kaufman/kaufman.css);
+/* done */
+@import url(./resources/resources.css);
+/* done */
 
 .content {
-    margin: 0;
-  }
+  margin: 0;
+}

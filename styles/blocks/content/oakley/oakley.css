@@ -1,5 +1,4 @@
-@import url(/styles/blocks/content/description/two-columns/two-columns.css);
-
+@import url(../description/two-columns/two-columns.css);
 
 .oakley {
   background-color: #f2f2f2;

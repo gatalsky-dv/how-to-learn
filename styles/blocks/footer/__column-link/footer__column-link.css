@@ -1,14 +1,14 @@
 .footer__column-link {
-    line-height: 30px;
-    font-size: 18px;
-    font-weight: normal;
-    color: white;
-    flex-direction: column;
-    justify-content: flex-start;
-    text-decoration: none;
-    transition: opacity 0.5s ease 0.2s;
-  }
+  line-height: 30px;
+  font-size: 18px;
+  font-weight: normal;
+  color: white;
+  flex-direction: column;
+  justify-content: flex-start;
+  text-decoration: none;
+  transition: opacity 0.5s ease 0.2s;
+}
 
-  .footer__column-link:hover {
-    opacity: 0.5;
-  }
+.footer__column-link:hover {
+  opacity: 0.5;
+}

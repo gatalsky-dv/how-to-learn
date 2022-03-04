@@ -3,19 +3,19 @@
     transform: rotate(0deg);
   }
   to {
-        transform: rotate(360deg);
-    }
+    transform: rotate(360deg);
+  }
 }
 
 .kaufman__triangle {
-    background-image: url(/images/kaufman-triangle.svg);
-    height: 877px;
-    width: 877px;
-    position: absolute;
-    top: 0;
-    right: -210px;
-    margin: 0;
-    z-index: 0;
-    background-size: cover;
-    animation: rotate 20s linear infinite normal;
-  }
+  background-image: url(../../../../../images/kaufman-triangle.svg);
+  height: 877px;
+  width: 877px;
+  position: absolute;
+  top: 0;
+  right: -210px;
+  margin: 0;
+  z-index: 0;
+  background-size: cover;
+  animation: rotate 20s linear infinite normal;
+}
