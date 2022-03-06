@@ -6,7 +6,7 @@
 @import url(../blocks/header/__main-illustration/header__main-illustration.css);
 @import url(../blocks/header/__square-pic/header__square-pic.css);
 @import url(../blocks/header/__link/header__link.css);
-@import url(../blocks/header/__square-pic/_rotation/header__square-pic_rotation.css);
+@import url(../blocks/rotation/rotation.css);
 
 /* logo */
 @import url(../blocks/logo/logo.css);
@@ -14,7 +14,7 @@
 @import url(../blocks/logo/logo_place_footer/logo_place_footer.css);
 /* footer */
 @import url(../blocks/footer/footer.css);
-@import url(../blocks/footer/__autor/footer__autor.css);
+@import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
@@ -59,6 +59,7 @@
 @import url(../blocks/content/khan/__quote-author-subline/khan__quote-author-subline.css);
 @import url(../blocks/content/khan/__quote-author/khan__quote-author.css);
 @import url(../blocks/content/khan/__quote/khan__quote.css);
+@import url(../blocks/сitation/сitation.css);
 /* oakley */
 @import url(../blocks/content/oakley/oakley.css);
 /* resources */
